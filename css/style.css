@@ -174,10 +174,10 @@ footer{
   background-color: black;
   color: white;
 
+  margin-top:100px;
 }
 footer .hr{
   background-color:white ;
-  margin-top:100px;
 height: 3px;
 margin: 20px 0;
 }
